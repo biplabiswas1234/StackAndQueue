@@ -1,0 +1,14 @@
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.csproj.AssemblyReference.cache
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.AssemblyInfoInputs.cache
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.AssemblyInfo.cs
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.csproj.CoreCompileInputs.cache
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.exe
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.deps.json
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.runtimeconfig.json
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.runtimeconfig.dev.json
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.dll
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\bin\Debug\netcoreapp3.1\StackeQueue.pdb
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.dll
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.pdb
+C:\Users\bipbi\OneDrive\Desktop\Bridgelabz\PracticeRFP\StackeQueue\obj\Debug\netcoreapp3.1\StackeQueue.genruntimeconfig.cache
