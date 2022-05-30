@@ -58,15 +58,7 @@ namespace StackAndQueues
                 }
                 temp.next = node;
             }
-            Console.WriteLine("Added node to the Queue :" + data);
-        }
-        public void RemoveStart()
-        {
-            if (this.head == null)
-            {
-                Console.WriteLine("Queue is Empty");
-            }
-            head = head.next;
+            Console.WriteLine("Added node to the LinkedList :" + data);
         }
         public void Display()
         {
@@ -75,7 +67,7 @@ namespace StackAndQueues
             //check if list is empty or not
             if (this.head == null)
             {
-                Console.WriteLine("Queue is empty");
+                Console.WriteLine("Stack is empty");
             }
             while (temp != null)
             {

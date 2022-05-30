@@ -13,10 +13,6 @@ namespace StackAndQueues
         {
             linked.Append(data);
         }
-        public void Dequeue()
-        {
-            linked.RemoveStart();
-        }
         public void DisplayQueue()
         {
             Console.WriteLine("\nQueue: ");
